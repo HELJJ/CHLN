@@ -1,6 +1,6 @@
-# Collaborative Hypergraph Network Learning for Sequential Diagnosis Prediction
+# Collaborative Hypergraph Neural Network for Sequential Diagnosis Prediction
 
-Codes for paper: *Collaborative Hypergraph Network Learning for Sequential Diagnosis Prediction*
+Codes for paper: *Collaborative Hypergraph Neural Network for Sequential Diagnosis Prediction*
 
 ## Requirements
 
